@@ -1,5 +1,3 @@
-### Hi there 👋, I am Asif Al - Samy
-#### Web Application Developer
 ![Web Application Developer](https://i.ytimg.com/vi/d1Gd-MGaleE/maxresdefault.jpg)
 
 I am a web application developer, have working experience in the Software Industry as a backend developer. Despite working in the backend, I am very much enthusiastic about frontend technologies. My expertise includes PHP, javascript (ReactJs), Laravel framework, Django REST framework for developing Web Applications.
